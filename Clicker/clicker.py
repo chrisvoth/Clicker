@@ -1,3 +1,5 @@
+# pyClicker IDLE game
+# 2020-10-16
 import itertools
 import time
 import tkinter as tk
